@@ -1,16 +1,10 @@
 # flutter_designs
 
-A new Flutter project.
+Simple three screen design
 
-## Getting Started
+![Screenshot_20230408-180716](https://user-images.githubusercontent.com/67966223/230744582-91050175-74a7-4a59-a94c-3c74d581f7bc.png)
+.
 
-This project is a starting point for a Flutter application.
+![Screenshot_20230408-180546](https://user-images.githubusercontent.com/67966223/230744567-99866ce2-d3ee-4e4c-a1a6-db7548ac80d3.png)
+![Screenshot_20230408-180637](https://user-images.githubusercontent.com/67966223/230744570-1371a84f-b1e7-4b40-aced-0fa19a3dc2dc.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
